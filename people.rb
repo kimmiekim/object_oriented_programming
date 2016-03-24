@@ -31,3 +31,5 @@ instructor.teach
 student.teach
 # you can't call teach method on student
 # because the teach method is instructor's behaviour not the student
+# if we want to call teach method on student,
+# we need to first set it under student class
